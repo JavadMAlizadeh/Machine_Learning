@@ -12,5 +12,5 @@ The following topics are covered in this course:
 (ii) Unsupervised learning (clustering, dimensionality reduction, recommender systems, deep learning)
 (iii) Best practices in machine learning (bias/variance theory; innovation process in machine learning and AI)
 
-# Instructors:
+# Instructor:
 Andrew Ng
